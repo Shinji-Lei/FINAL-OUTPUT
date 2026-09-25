@@ -1,8 +1,12 @@
+
 # Task Manager (Laravel)
 
 **Project Code:** WST21-PM-2026-SF  
+
 **Student Name:** Calvo, Shinji Lei  
+
 **Course & Year:** BSIT2  SEC-1
+
 **Database Used:** MySQL  
 
 ## Features
